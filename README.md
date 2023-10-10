@@ -1,43 +1,56 @@
-<div align="center">
-<img src="https://i.imgur.com/JXbLvrD.png" align="center" style="width: 100%" />
-</div> 
+# hi 👋
+i'm nulldomain
 
-<table><tr><td valign="top" width="50%">
+### what i use
 
-# Find me on other socials:  
-  
-
-<a href="https://github.com/null-domain" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/nulldomain" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/nulldomain" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-
-
-</td><td valign="top" width="50%">
-
-# <div align="right">My skills:</div>  
-  
-
-<div align="right">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
+<div align="left">
+  <img src="https://cdn.simpleicons.org/pycharm/000000/ffffff" height="40" alt="pycharm logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000/ffffff" height="40" alt="intellij logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/000000/ffffff" height="40" alt="vscode logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/apple/000000/ffffff" height="40" alt="apple logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/windows/000000/ffffff" height="40" alt="windows logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/archlinux/000000/ffffff" height="40" alt="arch linux logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/gitlab/000000/ffffff" height="40" alt="gitlab logo" />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/github/000000/ffffff" height="40" alt="github logo" />
 </div>
 
-</td></tr></table>
-<br />
+<h3 align="left">what i'm skilled at</h3>
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/000000/ffffff" height="40" alt="python logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/fastapi/000000/ffffff" height="40" alt="fastapi logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/gnubash/000000/ffffff" height="40" alt="bash logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/postgresql/000000/ffffff" height="40" alt="postgresql logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/mysql/000000/ffffff" height="40" alt="mysql logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/redis/000000/ffffff" height="40" alt="redis logo"  />
+</div>
+
+(and java, but i can't put an icon here because oracle is a big meanie)
+
+### where you can reach me
+
+<div align="left">
+  <a href="https://discord.com/user/808685178393722891" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/000000/ffffff" height="40" alt="discord logo"  />
+    <img width="1" />
+  </a>
+  <a href="https://twitter.com/nulldomain" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000/ffffff" height="40" alt="twitter logo"  />
+    <img width="1" />
+  </a>
+</div>
+
+### what i last listened to (or am listening to)
+<img src="https://nulldomain-github-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
