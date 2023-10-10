@@ -42,7 +42,7 @@ i'm nulldomain
 ### where you can reach me
 
 <div align="left">
-  <a href="https://discord.com/user/808685178393722891" target="_blank">
+  <a href="https://discord.com/users/808685178393722891" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/000000/ffffff" height="40" alt="discord logo"  />
     <img width="1" />
   </a>
